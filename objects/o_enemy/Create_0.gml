@@ -1,0 +1,6 @@
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 3BE5C9D4
+/// @DnDArgument : "expr" "8"
+/// @DnDArgument : "var" "enemySpeed"
+enemySpeed = 8;

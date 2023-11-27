@@ -1,0 +1,41 @@
+{
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "button_play",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":true,},
+  ],
+  "managed": true,
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"button_parents","path":"objects/button_parents/button_parents.yy",},"propertyId":{"name":"button_text","path":"objects/button_parents/button_parents.yy",},"value":"Play",},
+  ],
+  "parent": {
+    "name": "menu",
+    "path": "folders/Objects/menu.yy",
+  },
+  "parentObjectId": {
+    "name": "button_parents",
+    "path": "objects/button_parents/button_parents.yy",
+  },
+  "persistent": false,
+  "physicsAngularDamping": 0.1,
+  "physicsDensity": 0.5,
+  "physicsFriction": 0.2,
+  "physicsGroup": 1,
+  "physicsKinematic": false,
+  "physicsLinearDamping": 0.1,
+  "physicsObject": false,
+  "physicsRestitution": 0.1,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsShapePoints": [],
+  "physicsStartAwake": true,
+  "properties": [],
+  "solid": false,
+  "spriteId": {
+    "name": "s_menu",
+    "path": "sprites/s_menu/s_menu.yy",
+  },
+  "spriteMaskId": null,
+  "visible": true,
+}
