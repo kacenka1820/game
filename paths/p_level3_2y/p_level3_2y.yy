@@ -1,0 +1,19 @@
+{
+  "$GMPath":"",
+  "%Name":"p_level3_2y",
+  "closed":false,
+  "kind":0,
+  "name":"p_level3_2y",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":736.0,"y":574.0,},
+    {"speed":100.0,"x":736.0,"y":568.6,},
+    {"speed":100.0,"x":736.0,"y":468.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

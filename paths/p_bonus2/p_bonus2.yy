@@ -1,0 +1,21 @@
+{
+  "$GMPath":"",
+  "%Name":"p_bonus2",
+  "closed":false,
+  "kind":0,
+  "name":"p_bonus2",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":128.0,"y":544.0,},
+    {"speed":100.0,"x":128.0,"y":224.0,},
+    {"speed":100.0,"x":864.0,"y":224.0,},
+    {"speed":100.0,"x":864.0,"y":544.0,},
+    {"speed":100.0,"x":128.0,"y":544.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}
