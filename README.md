@@ -1,0 +1,1 @@
+# Ročníková práce - GameMaker
